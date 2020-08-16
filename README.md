@@ -13,4 +13,5 @@ My name is Wosley Vacemberg, I am 19 years old and I am a software developer.
 
 Yeah, I'm not working at the moment, if you have something cool and want to tell me, get in touch =)
 
-[Discord]("https://discordapp.com/users/612741651798032574/")
+[Discord](https://discordapp.com/users/612741651798032574)
+
