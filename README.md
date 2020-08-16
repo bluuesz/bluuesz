@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**bluuesz/bluuesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I literally don't know what I'm doing. I just code what I find interesting. 🤷‍
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Wosley Vacemberg, I am 19 years old and I am a software developer.
+
+- I am currently learning about functional languages. Haskell and Elixir
+- Also studying GraphQL in my spare time. ❤️
+
+## Work
+
+Yeah, I'm not working at the moment, if you have something cool and want to tell me, get in touch =)
+
+[Discord]("https://discordapp.com/users/612741651798032574/")
