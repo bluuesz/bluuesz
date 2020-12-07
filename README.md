@@ -1,17 +1,14 @@
-### Hi there 👋
+### Hi, I'm Wosley 👋
 
-I literally don't know what I'm doing. I just code what I find interesting. 🤷‍
+I'm 19 years old and I am a software developer.
 
-## About me
+## Interests
 
-My name is Wosley Vacemberg, I am 19 years old and I am a software developer.
-
-- I am currently learning about functional languages. Haskell and Elixir
-- Also studying GraphQL in my spare time. ❤️
+- I am currently learning about functional languages. Haskell and Elixir.
+- Also learning about graphql.
 
 ## Work
 
-Yeah, I'm not working at the moment, if you have something cool and want to tell me, get in touch =)
+I'm not working at the moment, if you have something cool and want to tell me, get in touch =)
 
 [Discord](https://discordapp.com/users/612741651798032574)
-
