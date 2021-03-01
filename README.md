@@ -4,8 +4,8 @@ I'm 19 years old and I am a software developer.
 
 ## Interests
 
-- I am currently learning about functional languages.
-- Also learning about graphql.
+- FP languages
+- GraphQL
 
 ## Work
 
