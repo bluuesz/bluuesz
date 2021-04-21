@@ -4,7 +4,7 @@ I'm 19 years old and I am a software developer.
 
 ## Interests
 
-- ReScript and Elixir
+- Functional programming languages
 - GraphQL
 
 
